@@ -1,0 +1,77 @@
+INFOMAÇÕES
+
+Para criar um site autêntico de God of War (2018), você deve focar em uma estética que equilibre a brutalidade do passado de Kratos com a ambientação fria e mística da mitologia nórdica.
+1. Paleta de Cores Recomendada
+A identidade visual deste jogo se afasta do tom excessivamente marrom dos anteriores, introduzindo contrastes marcantes:
+
+* Cores de Fundo (Primárias): Use tons escuros para dar profundidade e destaque.
+* Preto Profundo ou Cinza Escuro: Remete à seriedade e ao tom sombrio da jornada.
+   * Azul Gelado (#ADD8E6 ou similar): Representa Midgard, a neve e o elemento gelo do Machado Leviatã.
+* Cores de Destaque (Acentuação):
+* Vermelho Sangue (#8B0000 ou #C0392B): Essencial para botões, links ou títulos, ligando à tatuagem de Kratos e à sua fúria espartana.
+   * Dourado/Amarelo Queimado (#F9DF4A ou #B73E09): Ótimo para ícones de itens lendários, runas e detalhes que remetem a artefatos divinos.
+* Tipografia: Utilize fontes que lembrem escritas rúnicas ou serifas clássicas imponentes. O Google recomenda a Noto Sans para boa legibilidade em telas de jogos, mas você pode usar fontes decorativas em títulos.
+
+2. Informações Essenciais para o Site
+Para atrair outros fãs e ser útil, seu site deve conter:
+
+* Guia de Personagens: Detalhes sobre a evolução de Kratos, o crescimento de Atreus e figuras como Mimir, Freya, Brok e Sindri.
+* Bestiário Nórdico: Informações e fraquezas de inimigos como Draugrs, Valquírias e Ogros.
+* Guia de Equipamentos e Builds:
+* Listagem das melhores armaduras (como as de Ivaldi ou Valquíria).
+   * Explicação sobre o Machado Leviatã e as Lâminas do Caos.
+   * Dicas para investir em habilidades do Atreus, que é crucial no suporte.
+* Dicas de Exploração (100%): Guia de colecionáveis, localização de baús Nornir e como derrotar a Rainha Valquíria Sigrun.
+* Lore e Frases Icônicas: Espaço para as citações profundas de Kratos sobre paternidade e destino.
+
+
+
+HISTÓRIA
+
+God of War (2018) é um jogo de ação e aventura que marca um novo começo para a franquia, transportando o protagonista Kratos da Grécia Antiga para as terras geladas da mitologia nórdica. 
+
+História e Premissa
+Após anos da destruição do Olimpo, Kratos vive como um homem em Midgard. O jogo começa logo após a morte de sua segunda esposa, Faye, cujo último desejo era que suas cinzas fossem espalhadas do pico mais alto dos nove reinos. Kratos parte nessa jornada acompanhado de seu filho, Atreus, a quem ele deve ensinar a sobreviver enquanto tenta esconder seu passado violento e sua natureza divina. 
+
+No caminho, eles são perseguidos por deuses nórdicos, como Baldur, que busca algo que Kratos possui, desencadeando conflitos que revelam segredos sobre o destino de Atreus e o futuro dos reinos.
+
+
+INFORMAÇÕES SOBRE OS PERSONAGENS
+
+Aqui estão os detalhes principais sobre cada um dos personagens centrais para você alimentar o conteúdo do seu site:
+Protagonistas
+
+* Kratos: O antigo Deus da Guerra grego agora busca uma vida tranquila em Midgard. Ele é um pai severo e reservado, lutando para conter sua fúria e ensinar seu filho, Atreus, a sobreviver em um mundo de deuses nórdicos impiedosos. Sua arma principal é o Machado Leviatã.
+* Atreus: Filho de Kratos e Faye, ele acompanha seu pai na jornada para espalhar as cinzas da mãe. Ele possui uma habilidade inata para entender línguas e runas antigas, além de ser um arqueiro habilidoso que auxilia no combate. Durante o jogo, ele descobre que seu nome de batismo gigante é Loki. 
+
+Aliados e Suporte
+
+* Mimir: Conhecido como o "Homem Mais Vivo do Mundo", ele é um ex-conselheiro de Odin que foi aprisionado em uma árvore por séculos. Após ser resgatado (e decapitado) por Kratos, sua cabeça falante serve como guia e enciclopédia rúnica, narrando as lendas e segredos dos Nove Reinos.
+* Freya: Inicialmente apresentada como a "Bruxa da Floresta", ela é uma deusa Vanir exilada em Midgard por Odin. Ela ajuda Kratos e Atreus em diversos momentos, mas guarda um segredo doloroso: ela é a mãe de Baldur e fez um feitiço para torná-lo invulnerável a tudo, exceto visco.
+* Brok e Sindri: Dois irmãos anões ferreiros que criaram o Machado Leviatã e o martelo de Thor, Mjölnir. Brok é rude e direto, enquanto Sindri é extremamente higiênico (tem fobia de germes) e gentil. Eles são responsáveis por melhorar seus equipamentos durante o jogo.  
+
+Antagonista
+
+* Baldur: Filho de Odin e Freya, ele é o principal vilão do jogo. Amaldiçoado pela própria mãe com invulnerabilidade absoluta para protegê-lo, ele perdeu a capacidade de sentir qualquer prazer físico ou dor, o que o levou à loucura e ao ressentimento profundo contra Freya. Ele persegue Kratos acreditando que o espartano possui as respostas para seu sofrimento.  
+
+
+BASE DO BESTIARIO
+
+O bestiário de God of War (2018) é profundamente enraizado na mitologia nórdica, apresentando uma mistura de criaturas folclóricas, mortos-vivos e deuses reimaginados. A jornada de Kratos e Atreus por Midgard e outros reinos os coloca contra diversas ameaças únicas.
+Aqui estão os principais inimigos e criaturas do bestiário nórdico no jogo de 2018:
+Criaturas e Inimigos Comuns
+Draugr: Mortos-vivos nórdicos que servem como inimigos básicos, encontrados em várias formas (fogo, gelo, explosivos).
+Revenant (Regressada): Bruxas corruptas que utilizam magia Seidr para atacar à distância e se teletransportar.
+Hel-Walkers (Caminhantes de Hel): Criaturas congeladas que habitam o reino de Helheim.
+Trolls: Gigantes de pedra ou fogo, como Döggmadur (o primeiro troll de fogo enfrentado) e Brenna Daudi, que agem como chefes intermediários.
+Ogros: Criaturas grandes e brutais que podem ser montadas por Kratos após atordoá-las.
+Wulver: Criaturas lupinas bípedes, muito ágeis e ferozes.
+Elfos (Claros e Sombrios): Habitam Alfheim e estão em uma guerra constante pelo controle da luz.
+Lindwyrms: Serpentes ou "vermes" míticos, filhos de Níðhöggr, que podem ser encontrados em missões secundárias. 
+
+Chefes e Criaturas Míticas
+Baldur (Balder): Filho de Odin e Freya, principal vilão do jogo, invulnerável a qualquer dano físico ou mágico.
+Valquírias: Nove guerreiras poderosas corrompidas por Odin, servindo como os chefes opcionais mais difíceis do jogo.
+Hræzlyr: Um imenso dragão que Kratos enfrenta na montanha.
+Magni e Modi: Filhos de Thor que tentam impedir Kratos e Atreus.
+Jörmungandr (Serpente do Mundo): A gigantesca serpente que reside no Lago dos Nove, agindo como um aliado, não um inimigo. 

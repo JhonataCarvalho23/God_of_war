@@ -14,7 +14,6 @@ body {
     min-height: 100vh;
     width: 100%;
     background-color: #2C3E50;
-    color: aliceblue;
 }
 
 .cabecalho {
@@ -34,5 +33,73 @@ body {
 }
 
 .conteudo {
-    margin: 0 10px;
+    margin: 0 15px;
+}
+.conteudo h1, h2 {
+    font-family: "Skranji", system-ui;
+    color: #F4A261;
+    padding: 20px 0;
+    text-align: center;
+}
+.conteudo h3 {
+    font-family: "Skranji", system-ui;
+    color: #F4A261;
+    padding-bottom: 10px;
+}
+.conteudo p {
+  text-align: justify;
+  hyphens: auto;
+  font-size: 18px;
+  color: rgb(214, 214, 214);
+  font-family: "Fira Sans", sans-serif;
+}
+.conteudo li {
+    text-align: justify;
+    hyphens: auto;
+    font-size: 16px;
+    color: rgb(214, 214, 214);
+    font-family: "Fira Sans", sans-serif;
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+.conteudo strong {
+    color: #F4A261;
+}
+
+.introducao {
+    display: flex;
+    flex-direction: column;
+}
+.introducao h1 {
+    font-size: 30px;
+}
+.introducao img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    padding-top: 20px;
+}
+
+.bestiario p {
+    padding-bottom: 20px;
+}
+
+.frases-iconicas img {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.rodape {
+    background-color: #002a53;
+    height: 80px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
 }

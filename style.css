@@ -85,12 +85,19 @@ body {
     padding-bottom: 20px;
 }
 
-.frases-iconicas img {
+
+.frases-iconicas {
     display: flex;
     flex-direction: column;
-    text-align: center;
-    padding: 10px 0;
 }
+.frases-iconicas img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    padding-top: 20px;
+}
+
 
 .rodape {
     background-color: #002a53;
@@ -103,3 +110,4 @@ body {
     align-items: center;
     margin-top: 20px;
 }
+

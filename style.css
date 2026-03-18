@@ -11,7 +11,6 @@ textos - font-family: "Fira Sans", sans-serif; */
 body {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
     width: 100%;
     background-color: #2C3E50;
 }
@@ -111,3 +110,16 @@ body {
     margin-top: 20px;
 }
 
+@media (min-width: 769px) {
+    .conteudo {
+        margin: 0 17% 0 17%;
+    }
+    .conteudo h1 {font-size: 50px;}
+    .conteudo p {font-size: 23px;}
+    .conteudo h2 {font-size: 40px;}
+    .introducao img {width: 400px; height: auto;}
+    .conteudo h3 {font-size: 30px;}
+    .conteudo li {font-size: 20px;}
+    .frases-iconicas img {width: 500px; height: auto;}
+    .rodape {font-size: 22px; padding: 20px; height: 120px;}
+}
